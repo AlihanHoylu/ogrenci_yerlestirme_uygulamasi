@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Ogrenci.sln",
+    "csharp.debug.console": "externalTerminal",
+}

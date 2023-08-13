@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sw+sAxzzSpdbsz5D8fv5q9ykn1Jh1uaayiP3k3uJ/KJQmTKbKhXeRl8NUngbKPlPjFEM/xH/H3Ivpad/2FrGkw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Toshıba\\Desktop\\Ogrenci\\Ogrenci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshıba\\.nuget\\packages\\fare\\2.2.0\\fare.2.2.0.nupkg.sha512",
+    "C:\\Users\\Toshıba\\.nuget\\packages\\randomdatagenerator.net\\1.0.17\\randomdatagenerator.net.1.0.17.nupkg.sha512",
+    "C:\\Users\\Toshıba\\.nuget\\packages\\stef.validation\\0.1.0\\stef.validation.0.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
